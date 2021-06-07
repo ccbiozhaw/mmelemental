@@ -2,4 +2,4 @@
 
 import cmselemental
 
-Array = cmselemental.types.Array
+Array = cmselemental.models.types.Array
